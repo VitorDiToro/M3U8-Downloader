@@ -3,19 +3,19 @@
 Original (Chinese) Version: https://github.com/HeiSir2014/M3U8-Downloader
 
 # M3U8-Downloader [直接下载](#下载可执行包)
-M3U8-Downloader是基于Electron框架开发的一款可以下载、播放HLS视频流的APP，功能特点如下：
+M3U8-Downloader is an APP developed based on the Electron framework that can download and play HLS video streams. The features are as follows:
 
-| 功能 | 支持 |
+| Features | Supported |
 | :-- | --: |
-| HLS协议点播源 | ✓ |
-| 自定义Http协议头下载 | ✓ |
-| 自定义KEY和IV解密 | ✓ |
-| 本地M3U8文件下载 | ✓ |
-| HLS协议直播源 | ✓ |
-| 标准 AES-128-CBC加密 | ✓ |
-| 标准 AES-196-CBC加密 | ✓ |
-| 标准 AES-256-CBC加密 | ✓ |
-| 非标准 AES-*-CBC加密 | ㄨ(可定制) |
+| HLS protocol on-demand source | ✓ |
+| Custom HTTP protocol header download | ✓ |
+| Custom KEY and IV decryption | ✓ |
+| Local M3U8 file download | ✓ |
+| HLS protocol live source | ✓ |
+| Standard AES-128-CBC encryption| ✓ |
+| Standard AES-196-CBC encryption| ✓ |
+| Standard AES-256-CBC encryption | ✓ |
+| Non-standard AES-*-CBC encryption| ㄨ(Customizable) |
 
 
 <div align="center">
