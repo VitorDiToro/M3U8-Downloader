@@ -105,10 +105,10 @@ yarn start
 ### Package release
 
 ```
-//windows 平台打包
+//On windows
 yarn pack-win
 
-//mac 平台打包
+//On mac
 yarn pack-mac
 
 ```
