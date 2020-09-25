@@ -47,26 +47,29 @@ M3U8-Downloader is an APP developed based on the Electron framework that can dow
 
 ---
 
-# 官网
+# Official website
 [M3U8-Downloader 官网](https://tools.heisir.cn/HLSDownload)
 
 QQ交流群：341972319
 
 [点我加QQ交流群](https://jq.qq.com/?_wv=1027&k=nhFrZBS0)
 
-# 获取M3U8视频地址
+# Get the M3U8 video address
 
-在chrome浏览器打开视频网页，按下F12,页签点击到Network页面，在Filter框里输入"m3u8",然后按F5刷新页面，如果网页里的视频使用的是HLS源，就可以在这里捕获到视频流地址，然后选中右键 Copy -> Copy Link Address.
-提供m3u8源地址，下载并无损转码Mp4文件
+Open the video webpage in the chrome browser, press F12, click on the tab to go to the Network page, enter "m3u8" in the Filter box, and then press F5 to refresh the page.
+If the video on the webpage uses HLS source, you can capture it here Go to the video stream address, then right click Copy -> Copy Link Address.
+
+Provide m3u8 source address, download and lossless transcode Mp4 file
+
 
 [自定义头添加-视频教程](https://player.bilibili.com/player.html?aid=498666070&bvid=BV1QK411n7VJ&cid=206827525&page=1)
 
-# 下载可执行包
+# Download the executable package
 
-## [推荐] 蓝奏下载
-## [Windows 、Linux、MacOS 下载](https://tools.heisir.cn/HLSDownload/download.html)
+## [Recommended] 蓝奏下载
+## [Windows 、Linux、MacOS download](https://tools.heisir.cn/HLSDownload/download.html)
 
-## Github 下载
+## Github download
 ## [Releases下载](https://github.com/HeiSir2014/M3U8-Downloader/releases)
 
 
@@ -83,23 +86,23 @@ cd newdir
 
 git clone https://github.com/HeiSir2014/M3U8-Downloader.git .
 ```
-### Yarn 环境安装
+### Yarn environmental installation
 
 ```
 npm install yarn -g
 ```
 
-### Package 依赖安装
+### Package dependent installation
 
 ```
 yarn
 ```
-### 运行M3U8-Downloader
+### Run M3U8-Downloader
 
 ```
 yarn start
 ```
-### 打包发布
+### Package release
 
 ```
 //windows 平台打包
@@ -114,4 +117,4 @@ yarn pack-mac
 
 ### 赞赏
 
-[赞赏链接](https://tools.heisir.cn/HLSDownload/2019/07/08/02/)
+[Appreciate link](https://tools.heisir.cn/HLSDownload/2019/07/08/02/)
